@@ -9,3 +9,23 @@ start "" goodbyedpi.exe -7--blacklist ..\russia-blacklist.txt --blacklist ..\rus
 
 POPD
 POPD
+discord-attachments-uploads-prd.storage.googleapis.com
+dis.gd
+discord.co
+discord.com
+discord.design
+discord.dev
+discord.gg
+discord.gift
+discord.gifts
+discord.media
+discord.new
+discord.store
+discord.tools
+discordapp.com
+discordapp.net
+discordmerch.com
+discordpartygames.com
+discord-activities.com
+discordactivities.com
+discordsays.com
